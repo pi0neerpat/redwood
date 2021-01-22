@@ -1,6 +1,6 @@
 {
   "name": "@redwoodjs/api",
-  "version": "0.23.0-pat-prisma",
+  "version": "0.23.1-pat-prisma",
   "files": [
     "dist"
   ],

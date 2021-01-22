@@ -1,6 +1,6 @@
 {
   "name": "@redwoodjs/core",
-  "version": "0.23.0-pat-prisma",
+  "version": "0.23.1-pat-prisma",
   "license": "MIT",
   "files": [
     "config",
